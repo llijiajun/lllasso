@@ -1,0 +1,13 @@
+Package: lllasso
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2017-10-09
+Author: Who wrote it
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+Imports: Rcpp (>= 0.12.10)
+LinkingTo: Rcpp, RcppArmadillo
+NeedsCompilation: yes
+Packaged: 2017-10-09 00:07:56 UTC; ljj

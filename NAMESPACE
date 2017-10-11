@@ -1,0 +1,3 @@
+useDynLib(lllasso)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
